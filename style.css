@@ -106,7 +106,7 @@ input{
     width: 325px;
     height: 82px;
     flex-shrink: 0;
-    margin:67px 718px 116px 685px;
+    margin:17px 718px 116px 685px;
     border-radius: 100px;
     border: 2px solid #FCAF02;
     background: #FCAF02;
@@ -121,6 +121,7 @@ table{
     margin-bottom:120px;
 }
 th,td{
+    border-right:1px solid #FCAF02;
     text-align: left;
     padding-left:50px;
     font-size: 28px;
@@ -129,7 +130,7 @@ th,td{
 th{
     border-bottom:1px solid #FCAF02;
 }
-#footer{
+tfoot{
     width: 1582px;
     height: 91px;
     flex-shrink: 0;
@@ -137,6 +138,7 @@ th{
     font-size: 28px;
     font-weight: 400;
     background-color: #FCAF02;
+    border:0;
 }
 
 
