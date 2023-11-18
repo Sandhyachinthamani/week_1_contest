@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family:'Montserrat', sans-serif; 
+}
+body{
+    background: #000;
+}
+nav{
+    background: #FCAF02;
+    width: 1728px;
+    height: 86px;
+    flex-shrink: 0;
+}
+nav>span{
+    padding: 24px 58px;
+    color: #000;
+    font-size: 32px;
+    font-weight: 700;
+}
+ 
+#Home{
+    margin:26px 50px 26px 863px;
+    background-color: #FCAF02;
+    border-style:none;
+}
+button{
+    margin-top: 26px;
+    margin-right:25px;
+    font-size: 28px;
+    font-weight: 400;
+    background-color: #FCAF02;
+    border-style:none;
+}
+
+img{
+    position: absolute;
+    width: 697px;
+    height: 482px;
+    flex-shrink: 0;
+    margin-left:981px;
+    background: url(./jeff.jfif), lightgray 0px -0.031px / 122.956% 100.013% no-repeat;
+
+}
+h1{
+    color: #FFF;
+    margin-top: 88px;
+    margin-left: 63px;
+    font-size: 64px;
+    font-weight: 700;
+}
+div{
+    margin-top:33px;
+    margin-left: 63px;
+    width: 917px;
+    color: #FFF;
+    font-size: 28px;
+    font-weight: 400;
+}
+#login{
+    margin-top: 50px;
+    margin-left:63px;
+    width: 323px;
+    height: 66px;
+    flex-shrink: 0;
+    border-radius: 500px;
+}
+#ContactUs>h1{
+    color: #FCAF02;
+}
+input{
+    color: #FCAF02;
+    font-size: 28px;
+    font-weight: 400;
+    width: 1570px;
+    height: 82px;
+    outline:none;
+    flex-shrink: 0;
+    border-radius: 100px;
+    border: 2px solid #FCAF02;
+    background-color: black;
+    padding: 24px 58px;
+    margin-left:63px;
+    margin-bottom:50px;
+    margin-right:95px;
+}
+#name{
+    margin-top: 64px; 
+}
+#mobilenumber{
+    width: 730px;
+    height: 82px;
+    flex-shrink: 0;
+    margin-right:73px;
+}
+#city{
+    width: 767px;
+    height: 82px;
+    flex-shrink: 0;
+    margin-inline:0px;
+    margin-bottom:67px;
+}
+#submitform{
+    width: 325px;
+    height: 82px;
+    flex-shrink: 0;
+    margin:67px 718px 116px 685px;
+    border-radius: 100px;
+    border: 2px solid #FCAF02;
+    background: #FCAF02;
+}
+table{
+    margin-left:63px;
+    width: 1582px;
+    height: 755px;
+    color: #FCAF02;
+    flex-shrink: 0;
+    border: 2px solid #FCAF02;
+    margin-bottom:120px;
+}
+th,td{
+    text-align: left;
+    padding-left:50px;
+    font-size: 28px;
+    font-weight: 400;
+}
+th{
+    border-bottom:1px solid #FCAF02;
+}
+#footer{
+    width: 1582px;
+    height: 91px;
+    flex-shrink: 0;
+    color: #000;
+    font-size: 28px;
+    font-weight: 400;
+    background-color: #FCAF02;
+}
+
+
