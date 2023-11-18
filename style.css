@@ -119,6 +119,7 @@ table{
     flex-shrink: 0;
     border: 2px solid #FCAF02;
     margin-bottom:120px;
+    border-collapse: collapse;
 }
 th,td{
     border-right:1px solid #FCAF02;
