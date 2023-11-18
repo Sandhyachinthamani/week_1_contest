@@ -96,6 +96,7 @@ input{
     margin-right:73px;
 }
 #city{
+    display: inline-block;
     width: 767px;
     height: 82px;
     flex-shrink: 0;
